@@ -19,13 +19,7 @@
 ---
 
 ## Eszközök
-Multiméter
-Ellenállások:
-R1 = 170 Ω
-R2 = 680 Ω
-Breadboard
-Jelgenerátor
-Oszcilloszkóp
+
 ---
 
 ### 3. **Mérési helyszín és környezet**
