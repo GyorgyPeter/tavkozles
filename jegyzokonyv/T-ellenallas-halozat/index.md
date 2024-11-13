@@ -20,7 +20,13 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 
 ## 2. Eszközök 
 - **NI myDAQ** 
-- **Ellenállások**
+- **Ellenállások:**
+  - **számolás alapján:**
+    - R1 = 226 Ω
+    - R2 = 910 Ω
+  - **méréskor használt:**
+    - R1 = 220 Ω
+    - R2 = 950 Ω
 - **
 ---
 
