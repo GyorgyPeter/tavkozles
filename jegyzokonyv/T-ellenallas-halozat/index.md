@@ -33,14 +33,14 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 A T pad egy speciális csillapító áramkör az elektronikában, ahol az áramkör topológiája a "T" betű alakjában van kialakítva.
 
 Az elektronikában a csillapítókat a jel szintjének csökkentésére használják. Párnáknak is nevezik őket, mivel az akusztikával analóg módon lepárolják a jelet. A csillapítók lapos frekvenciamenettel rendelkeznek , amely minden frekvenciát egyformán csillapít abban a sávban, amelyen működni kívánnak. A csillapítónak az erősítővel ellentétes feladata van . A csillapító áramkör topológiája általában az egyszerű szűrőszakaszok egyikét követi . A szükséges frekvenciaválasz egyszerűsége miatt azonban nincs szükség bonyolultabb áramkörre, mint a szűrők esetében.
-<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133202.png" width="300" height="200">
+<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133202.png" width="300" height="200">
 
 ---
 
 ## 4. Szimuláció
 
 <a href="https://tinyurl.com/2cn9yyvv" target="_blank">
-<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20131745.png" width="800" height="375">
+<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20131745.png" width="800" height="375">
 </a>
 
 **Aláírás:** ...
