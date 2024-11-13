@@ -33,7 +33,7 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 ## 4. Szimuláció
 
 <a href="https://tinyurl.com/2cn9yyvv" target="_blank">
-<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20131745.png" width="700" height="375">
+<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20131745.png" width="800" height="375">
 </a>
 
 
