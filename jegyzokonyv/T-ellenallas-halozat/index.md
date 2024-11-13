@@ -35,6 +35,7 @@ A T pad egy speciális csillapító áramkör az elektronikában, ahol az áramk
 Az elektronikában a csillapítókat a jel szintjének csökkentésére használják. Párnáknak is nevezik őket, mivel az akusztikával analóg módon lepárolják a jelet. A csillapítók lapos frekvenciamenettel rendelkeznek , amely minden frekvenciát egyformán csillapít abban a sávban, amelyen működni kívánnak. A csillapítónak az erősítővel ellentétes feladata van . A csillapító áramkör topológiája általában az egyszerű szűrőszakaszok egyikét követi . A szükséges frekvenciaválasz egyszerűsége miatt azonban nincs szükség bonyolultabb áramkörre, mint a szűrők esetében.
 <details>
   <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133202.png" width="300" height="200">
+  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20140110.png" width="800" height="375">
 </details>
 <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133415.png" width="800" height="375">
 
