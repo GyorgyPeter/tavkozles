@@ -27,13 +27,13 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
   - **méréskor használt:**
     - R1 = 220 Ω
     - R2 = 950 Ω
-- **
 ---
 
 ## 3. Elmélet
 A T pad egy speciális csillapító áramkör az elektronikában, ahol az áramkör topológiája a "T" betű alakjában van kialakítva.
 
 Az elektronikában a csillapítókat a jel szintjének csökkentésére használják. Párnáknak is nevezik őket, mivel az akusztikával analóg módon lepárolják a jelet. A csillapítók lapos frekvenciamenettel rendelkeznek , amely minden frekvenciát egyformán csillapít abban a sávban, amelyen működni kívánnak. A csillapítónak az erősítővel ellentétes feladata van . A csillapító áramkör topológiája általában az egyszerű szűrőszakaszok egyikét követi . A szükséges frekvenciaválasz egyszerűsége miatt azonban nincs szükség bonyolultabb áramkörre, mint a szűrők esetében.
+<img src="" width="800" height="375">
 
 ---
 
