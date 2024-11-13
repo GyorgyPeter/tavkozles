@@ -32,7 +32,10 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 
 ## 4. Szimuláció
 
-<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuavcpyQsUHYv57zkU8vMGcvK7oNGlCXoeOPX7l6jdKAdgEvOyF-HHsTJ3DIv3cSdWtwhJAPVJSQ-1Qg1N8cqwU07IE0+3VwYgLc42K+MCF8vmpTUpSsevTEhXaGgR7O0TBK037arBIa-JGOsr4JgaqsHkC+5dmNLV1l5WWwLE9rVWVlPYPdJfiRNxp1ke2c65WTAAdFU713ygPXx9rH2a+UT49z681qXguA3GxluAHslAiaGgEOMlNAlmQyBhUKgcERsDiyEgYPAIDQBCU2PCwAFEeA-KiwNBCJiyKwaftUKwiFBYHAIBABDTUmwgA" target="_blank"> 
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWc0wCZIA4AsBmBDUsM4A2AThxAUiqpoQFMBaMMAKADcQySRdVuvdBijhw8WjSnQEbAE6CQwpZhUiaJOGwDuavcpyQsUHYv57zkU8vMGcvK7oNGlCXoeOPX7l6jdKAdgEvOyF-HHsTJ3DIv3cSdWtwhJAPVJSQ-1Qg1N8cqwU07IE0+3VwYgLc42K+MCF8vmpTUpSsevTEhXaGgR7O0TBK037arBIa-JGOsr4JgaqsHkC+5dmNLV1l5WWwLE9rVWVlPYPdJfiRNxp1ke2c65WTAAdFU713ygPXx9rH2a+UT49z681qXguA3GxluAHslAiaGgEOMlNAlmQyBhUKgcERsDiyEgYPAIDQBCU2PCwAFEeA-KiwNBCJiyKwaftUKwiFBYHAIBABDTUmwgA" target="_blank">
+<img src="https://raw.githubusercontent.com/szabot2/pi-csillapito/refs/heads/main/kepek/circuit-20241008-0905.png" width="640" height="400">
+</a>
+
 
 ## 6. Konklúzió
 ...
