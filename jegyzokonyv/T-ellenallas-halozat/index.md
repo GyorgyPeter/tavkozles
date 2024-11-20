@@ -49,9 +49,9 @@ A szimulációban látszik hogy bemenetre küldtünk 5V feszültséget. és
 
 ## 5. Gyakorlatban/Számítások
 
-- Breadboard
+- Breadboardon összerakva
 <details>
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png" width="800" height="350">
+  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_131014.jpg" width="800" height="350">
 </details>
 
 - Ellenállások számítása
