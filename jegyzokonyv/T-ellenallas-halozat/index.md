@@ -22,11 +22,14 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 - **NI myDAQ** 
 - **Ellenállások:**
   - **számolás alapján:**
+    - Rg/out = 680
     - R1/2 = 220 Ω
     - R3 = 900 Ω
   - **méréskor használt:**
-    - R1/2 = 220 Ω
-    - R3 = 900 Ω
+    - Rg = 681 Ω
+    - R1/2 = 219,193 Ω
+    - R3 = 193+676 Ω
+    - Rout = 681 Ω
 ---
 
 ## 3. Elmélet
