@@ -26,7 +26,7 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
     - R2 = 910 Ω
   - **méréskor használt:**
     - R1 = 220 Ω
-    - R2 = 950 Ω
+    - R2 = 900 Ω
 ---
 
 ## 3. Elmélet
