@@ -45,7 +45,7 @@ Az elektronikában a csillapítókat a jel szintjének csökkentésére használ
 ## 4. Szimuláció
 A szimulációban látszik hogy bemenetre küldtünk 10V feszültséget.
 <a href="https://tinyurl.com/22fpw5ch" target="_blank">
-<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20131745.png" width="800" height="375">
+<img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png" width="800" height="375">
 </a>
 
 **Aláírás:** ...
