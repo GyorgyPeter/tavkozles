@@ -22,11 +22,11 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
 - **NI myDAQ** 
 - **Ellenállások:**
   - **számolás alapján:**
-    - R1 = 226 Ω
-    - R2 = 910 Ω
+    - R1/2 = 220 Ω
+    - R3 = 900 Ω
   - **méréskor használt:**
-    - R1 = 220 Ω
-    - R2 = 900 Ω
+    - R1/2 = 220 Ω
+    - R3 = 900 Ω
 ---
 
 ## 3. Elmélet
@@ -39,7 +39,6 @@ Az elektronikában a csillapítókat a jel szintjének csökkentésére használ
 </details>
 <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-13%20133415.png" width="800" height="375">
 
-
 ---
 
 ## 4. Szimuláció
@@ -47,6 +46,25 @@ A szimulációban látszik hogy bemenetre küldtünk 5V feszültséget. és
 <a href="https://tinyurl.com/22fpw5ch" target="_blank">
 <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png" width="800" height="350">
 </a>
+
+## 5. Gyakorlatban/Számítások
+
+- Breadboard
+<details>
+  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/circuit-20241120-1216.png" width="800" height="350">
+</details>
+
+- Ellenállások számítása
+<details>
+  
+  **R1/2**
+  
+  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_123158.jpg" width="600" height="250">
+  
+  **R3**
+  
+  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20123956.png" width="600" height="250">
+</details>
 
 **Aláírás:** ...
 
