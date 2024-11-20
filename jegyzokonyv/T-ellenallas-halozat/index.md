@@ -49,7 +49,7 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 ## 5. Gyakorlatban/Számítások
 
-- **Breadboardon összerakva**
+- ***Breadboardon összerakva***
   
   CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyyábol a fele a CH0-nak.
   A jelgenerátoron 100Hz-s 5V váltakozó feszültséget állítottunk be.
@@ -61,7 +61,7 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
   <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131428.png">
 </details>
 
-- Ellenállások számítása
+- ***Ellenállások számítása***
 <details>
   
   **R1/2**
