@@ -27,8 +27,8 @@ A T ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállás
     - R3 = 900 Ω
   - **méréskor használt:**
     - Rg = 681 Ω
-    - R1/2 = 219,193 Ω
-    - R3 = 193+676 Ω
+    - R1/2 = 219,219 Ω
+    - R3 = 220+676 Ω
     - Rout = 681 Ω
 ---
 
