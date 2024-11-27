@@ -26,14 +26,16 @@ A PI ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállá
 - **NI myDAQ** 
 - **Ellenállások:**
   - **számolás alapján:**
-    - Rg/out =Ω
-    - R1/2 =Ω
-    - R3 =Ω
+    - Rg/out = 1,5 Ω
+    - R1/3 = 4514.16 Ω
+    - R1 = 1120.59 Ω
   - **méréskor használt:**
     - Rg =Ω
-    - R1/2 =Ω
-    - R3 =Ω
-    - Rout =Ω
+    - R1 = párhuzamosan  Ω
+    - R2 = párhuzamosan  Ω
+    - R3 = párhuzamosan  Ω
+    - Rout =  Ω
+ 
 ---
 
 ## 3. Elmélet
@@ -49,6 +51,7 @@ A PI ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállá
 
 ## 4. Szimuláció
 A Pi-tagú csillapítás szimulációjából láthatjuk, hogy a bemeneti szinuszos jel csillapodik, mivel a kimeneti feszültség jelentősen kisebb, mint a bemeneti feszültség. A hálózat két ellenállásból és egy kapacitív elemből álló kombinációja széles frekvenciatartományban hatékonyan csökkenti a rezgési amplitúdót. A kimeneti feszültség csökkenése mutatja, hogy a rendszer hatékonyan elnyeli a rezgési energiát. A szimuláció grafikonokon ábrázolva pontos képet ad a Pi-tag csillapító teljesítményéről és hatékonyságáról.
+
 <a href="https://tinyurl.com/27zr42a8" target="_blank">
 ![circuit-20241127-1204](https://github.com/user-attachments/assets/aede68db-8bc8-4f6e-b271-54708c6c6334)
 </a>
@@ -58,26 +61,16 @@ A Pi-tagú csillapítás szimulációjából láthatjuk, hogy a bemeneti szinusz
 - ***Breadboardon összerakva***
   
   CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyyábol a fele a CH0-nak.
-  A jelgenerátoron 100Hz-s 5V váltakozó feszültséget állítottunk be.
+  A jelgenerátoron 1KHz-s 5V váltakozó feszültséget állítottunk be.
 <details>
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_131014.jpg">
 
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131409.png">
-
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20131428.png">
 </details>
 
 - ***Ellenállások számítása***
-<details>
-  
-  **R1/2**
-  
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/IMG_20241120_123158.jpg">
-  
-  **R3**
-  
-  <img src="https://github.com/GyorgyPeter/tavkozles/blob/main/jegyzokonyv/T-ellenallas-halozat/kepek/K%C3%A9perny%C5%91k%C3%A9p%202024-11-20%20123956.png">
-</details>
+
+**R1/3=** $Z \times (\frac {K+1}{K-1}) = 1,5k \times (\frac {1,9953+1}{1,9953-1} = 4,51k)$
+
+**R2=** $Z \times (\frac {K^2-1}{2K}) = 1,5k \times (\frac {1,9953^2-1}{2 \times 1,9953}) = 1,12k$
 
 Képletek forrása: https://www.electronics-tutorials.ws/attenuators/pi-pad-attenuator.html
 
