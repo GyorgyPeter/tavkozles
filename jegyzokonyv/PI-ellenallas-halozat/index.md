@@ -72,8 +72,8 @@ A Pi-tagú csillapítás szimulációjából láthatjuk, hogy a bemeneti szinusz
 
 **R2=** $Z \times (\frac {K^2-1}{2K}) = 1,5k \times (\frac {1,9953^2-1}{2 \times 1,9953}) = 1,12k$
 
-Képletek forrása: https://www.electronics-tutorials.ws/attenuators/pi-pad-attenuator.html
-
 **Aláírás:** ...
 
 **Dátum:** ...
+
+Forrás: https://www.electronics-tutorials.ws/attenuators/pi-pad-attenuator.html
