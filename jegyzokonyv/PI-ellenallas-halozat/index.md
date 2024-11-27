@@ -48,9 +48,9 @@ A PI ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállá
 ---
 
 ## 4. Szimuláció
-A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját. A harmonikus torzítás elemzésével megérthetjük, hogy a csillapító mennyire hatékonyan csökkenti a nem kívánt rezgéseket. Ezek az eredmények segítenek optimalizálni a csillapító rendszer paramétereit a kívánt teljesítmény elérése érdekében.
-<a href="https://tinyurl.com/2cup3b8j" target="_blank">
-![szim](https://github.com/user-attachments/assets/cfe0fc83-c3de-46da-867c-81239f0da919)
+A Pi-tagú csillapítás szimulációjából láthatjuk, hogy a bemeneti szinuszos jel csillapodik, mivel a kimeneti feszültség jelentősen kisebb, mint a bemeneti feszültség. A hálózat két ellenállásból és egy kapacitív elemből álló kombinációja széles frekvenciatartományban hatékonyan csökkenti a rezgési amplitúdót. A kimeneti feszültség csökkenése mutatja, hogy a rendszer hatékonyan elnyeli a rezgési energiát. A szimuláció grafikonokon ábrázolva pontos képet ad a Pi-tag csillapító teljesítményéről és hatékonyságáról.
+<a href="https://tinyurl.com/27zr42a8" target="_blank">
+![circuit-20241127-1204](https://github.com/user-attachments/assets/aede68db-8bc8-4f6e-b271-54708c6c6334)
 </a>
 
 ## 5. Gyakorlatban/Számítások
