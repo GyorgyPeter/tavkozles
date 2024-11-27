@@ -40,9 +40,9 @@ A PI ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállá
 
 ## 3. Elmélet
 
-<details>
+A Pi-pad csillapítót azért nevezik így, mert alapvető elrendezése és felépítése hasonlít a görög pi (π) betűre. Ebben a konfigurációban az ellenállások energiaveszteséget okoznak, ami csökkenti a rezgés amplitúdóját és stabilizálja a rendszert. Az ellenállások értékétől függően különböző mértékű csillapítást érhetünk el, ami közvetlenül befolyásolja a kimeneti feszültség nagyságát. Bár ez a rendszer kevésbé hatékony széles frekvenciatartományban, mégis képes csökkenteni a nem kívánt rezgéseket, és javítja a rendszer stabilitását egyszerűbb alkalmazásokban.
 
-</details>
+
 
 ![Pi](https://github.com/user-attachments/assets/95e4a821-77a8-4a7e-a232-541bf97f85b0)
 
