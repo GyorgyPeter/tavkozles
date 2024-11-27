@@ -71,6 +71,8 @@ A szimulációban megfigyelhető, hogy az ellenállások hatására a bemeneti f
 
 ![Képernyőkép 2024-11-27 125052](https://github.com/user-attachments/assets/c0fff6ad-5677-48ac-83ba-c22ae29607c9)
 
+![IMG_20241127_125410](https://github.com/user-attachments/assets/a2b94bb0-ef49-4272-bd97-045d1d445036)
+
 </details>
 
 - ***Ellenállások számítása***
