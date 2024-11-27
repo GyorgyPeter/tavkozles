@@ -51,7 +51,7 @@ A Pi-pad csillapítót azért nevezik így, mert alapvető elrendezése és fel�
 ---
 
 ## 4. Szimuláció
-A Pi-tagú csillapítás szimulációjából láthatjuk, hogy a bemeneti szinuszos jel csillapodik, mivel a kimeneti feszültség jelentősen kisebb, mint a bemeneti feszültség. A hálózat két ellenállásból és egy kapacitív elemből álló kombinációja széles frekvenciatartományban hatékonyan csökkenti a rezgési amplitúdót. A kimeneti feszültség csökkenése mutatja, hogy a rendszer hatékonyan elnyeli a rezgési energiát. A szimuláció grafikonokon ábrázolva pontos képet ad a Pi-tag csillapító teljesítményéről és hatékonyságáról.
+A szimulációban megfigyelhető, hogy az ellenállások hatására a bemeneti feszültség jelentősen csökken, ami a rezgési energia elnyelésére utal. A kizárólag ellenállásokkal működő rendszer hatékonyan csökkenti a rezgés amplitúdóját, bár nem olyan széles frekvenciatartományban, mint kapacitív elemekkel kiegészítve. Az energiaveszteség révén a rendszer stabilabbá válik, mivel csökkenti a nem kívánt rezgések amplitúdóját. Összességében a rendszer hatékonyan javítja a mechanikai rendszer működését és élettartamát, bizonyítva, hogy az ellenállások önmagukban is hasznosak a rezgéscsillapításban.
 
 <a href="https://tinyurl.com/27zr42a8" target="_blank">
   
