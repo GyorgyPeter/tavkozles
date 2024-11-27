@@ -67,6 +67,10 @@ A szimulációban megfigyelhető, hogy az ellenállások hatására a bemeneti f
   A jelgenerátoron 1KHz-s 5V váltakozó feszültséget állítottunk be.
 <details>
 
+![Képernyőkép 2024-11-27 125010](https://github.com/user-attachments/assets/97d1b47c-f039-48a0-97d6-f3594c23c696)
+
+![Képernyőkép 2024-11-27 125052](https://github.com/user-attachments/assets/c0fff6ad-5677-48ac-83ba-c22ae29607c9)
+
 </details>
 
 - ***Ellenállások számítása***
