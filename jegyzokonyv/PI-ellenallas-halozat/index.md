@@ -63,7 +63,7 @@ A szimulációban megfigyelhető, hogy az ellenállások hatására a bemeneti f
 
 - ***Breadboardon összerakva***
   
-  CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyyábol a fele a CH0-nak.
+  CH0 a bemeneti feszülstég CH1 pedig a kimeneti fesz. Szépen látszódik hogy a CH1 feszültsége nagyyábol a fele a CH0-nak ami jó eredmény mert 6dB hez számítottuk az ellenállásokat.
   A jelgenerátoron 1KHz-s 5V váltakozó feszültséget állítottunk be.
 <details>
 
