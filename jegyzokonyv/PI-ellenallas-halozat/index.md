@@ -28,13 +28,13 @@ A PI ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállá
   - **számolás alapján:**
     - Rg/out = 1,5 Ω
     - R1/3 = 4514.16 Ω
-    - R1 = 1120.59 Ω
+    - R2 = 1120.59 Ω
   - **méréskor használt:**
-    - Rg =Ω
-    - R1 = párhuzamosan  Ω
-    - R2 = párhuzamosan  Ω
-    - R3 = párhuzamosan  Ω
-    - Rout =  Ω
+    - Rg = 1.49 KΩ
+    - R1 = 9.31 KΩ + 9.07 KΩ = 4594.2 Ω
+    - R2 = 2.2 KΩ + 2.21 KΩ = 1102.4 Ω
+    - R3 = 9,02 KΩ + 9.28 KΩ = 4574 Ω
+    - Rout = 1.49 KΩ
  
 ---
 
