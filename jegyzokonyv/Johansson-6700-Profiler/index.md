@@ -55,8 +55,9 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 - Az avasi adótoronyról érkező csatornákat sikeresen befogtuk és rendeztük.
 - Az rendendezés után egymás követték a csatornák és a spektrum analizátor ábrázolta is ezt.
 - A johansson eszközben állítottunk egy 100 dBu-s erősítést is beállítottunk a kimenő csatornákra. 
-  <details summary:Spektrum analizátor előtte utánna>
-  
+  <details open>
+  <summary>Spektrum analizátor előtte utánna</summary>
+    
   ![its_snapshot_0004](https://github.com/user-attachments/assets/2f111542-4d61-4703-ab87-aa67ebedad50)
   ![its_snapshot_0003](https://github.com/user-attachments/assets/d9c9e5ed-3fe1-4a06-98a5-6dd57d3704b3)
 
