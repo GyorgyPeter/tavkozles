@@ -23,9 +23,10 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 
 | Műszer neve                         | Típus       | Gyártási szám |
 | ----------------------------------- | ----------- | ------------- |
-| Profiler  |                Johansson 6700              | 28821          |
+| Profiler  |                Johansson 6700              | 28806          |
 | Spektrum Analizátor                 | Metek HDD          | 211112002390|
 | DVB-T Szoba Antenna                       | Smart HD 550     | ...    |
+| FM Antenna                       | Hurok-Dipolus     | ...    |
 
 ---
 
