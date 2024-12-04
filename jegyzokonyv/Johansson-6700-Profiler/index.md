@@ -64,3 +64,8 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
   </details>
  
 ---
+
+## 6. Konklúzió
+A mérési folyamat során sikeresen végrehajtottuk a beérkező csatornák áthelyezését a Johansson 6700 Profiler antennaerősítő-szűrő segítségével. Az eszközt megfelelően konfiguráltuk, így a különböző antennák jeleit optimálisan kezeltük. Az áthelyezett csatornák közötti átmenet hibamentesen zajlott, és a spektrum analizátor segítségével nyomon tudtuk követni az eredményeket, melyek jól illeszkedtek az elvárásokhoz.
+
+Az eszköz beállításainak finomhangolása során a kimeneti jelszintek stabilizálódtak, és sikeresen elértük a kívánt 100 dBu-s erősítést, amely lehetővé tette a csatornák megfelelő teljesítményének biztosítását. A mérések során tapasztalt zökkenőmentes működés és az eredmények megerősítették a beállítások hatékonyságát. A mérés során alkalmazott műszerek pontosan rögzítették a jelek viselkedését, és az adatok egyértelműen visszaigazolták a csatornák áthelyezésének sikerét.
