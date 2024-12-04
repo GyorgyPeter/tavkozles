@@ -1,11 +1,3 @@
-28>41 61dB 634
-31>42 64dB 642
-35>43 62dB 650
-41>44 48dB 658
-45>45 63dB 666
-48>46 58dB 674
-
-
 
 # MÉRÉSI JEGYZŐKÖNYV
 
@@ -42,9 +34,9 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 
 | Antenna típusa    | Eredeti csatorna  | Áthelyezett csatorna | Eredeti frekvencia | Áthelyezett frekvencia | Bemeneti jelszint (dBu) | Kimeneti jelszint (dBu) |
 |--------------------------|-------------------|----------------------|--------------------|------------------------|------------------------|------------------------|
-| DVB-T Szoba Antenna | 28         | 41            | 530 Mhz            | 634 MHz                |             60          | 100           |
-| DVB-T Szoba Antenna | 31         | 42            | 554 MHz            | 642 MHz                |             64          | 100           |
-| DVB-T Szoba Antenna | 35         | 43            | 586 MHz            | 650 MHz                |             60          | 100           |
-| DVB-T Szoba Antenna | 41         | 44            | 634 MHz            | 658 MHz                |             48          | 100           |
-| DVB-T Szoba Antenna | 45         | 45            | 666 MHz            | 666 MHz                |             58          | 100           |
-| DVB-T Szoba Antenna | 48         | 46            | 690 MHz            | 674 MHz                |             55          | 100           |
+| DVB-T Szoba Antenna | 28         | 41            | 530 Mhz            | 634 MHz                |             61          | ~100           |
+| DVB-T Szoba Antenna | 31         | 42            | 554 MHz            | 642 MHz                |             64          | ~100           |
+| DVB-T Szoba Antenna | 35         | 43            | 586 MHz            | 650 MHz                |             62          | ~100           |
+| DVB-T Szoba Antenna | 41         | 44            | 634 MHz            | 658 MHz                |             48          | ~100           |
+| DVB-T Szoba Antenna | 45         | 45            | 666 MHz            | 666 MHz                |             63          | ~100           |
+| DVB-T Szoba Antenna | 48         | 46            | 690 MHz            | 674 MHz                |             58          | ~100           |
