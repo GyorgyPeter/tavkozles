@@ -74,11 +74,7 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ...
 ---
 
-## 8. Javaslatok
-...
----
-
-## 9. Antenna mérési képek:
+## 8. Antenna mérési képek:
 **Smart HD 550 Képek:**
 <details>
 <summary>Kattins a részletekért</summary>
