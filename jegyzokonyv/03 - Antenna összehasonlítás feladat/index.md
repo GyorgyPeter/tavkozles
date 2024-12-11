@@ -21,9 +21,25 @@ A gyakorlat célja, hogy a különböző antennák jel erősségeit összehasonl
 
 ## 2. Alkalmazott mérőeszközök és készülékek
 
-| Műszer neve                         | Típus               | Leírás |
-| ----------------------------------- | ------------------- |--------|
+| Műszer neve                         | Típus               | Leírásról link |
+| ----------------------------------- | ------------------- |----------------|
 | Spektrum Analizátor                 | Metek HDD           |[Leírás](https://www.ek.plus/en/product/metek-hdd/)|
 | DVB-T Szoba Antenna                 | Smart HD 550        |[Leírás](https://bolt.sat.hu/opticum-smart-hd-550-szobaantenna-3135?srsltid=AfmBOopzsStuWMBIGKVNKGFObYG5-NeQaW_3Z0zCVwr0YBzbp-i0dHRI)|
 | DVB-T Antenna                       |ISKRA P2845          |[Leírás](https://www.iskra.eu/en/UHF-antennas/UHF-TV-Antenna-P-2845/)|
 | DVB-T Antenna                       |IKUSI FLASHD C48     |[Leírás](https://bolt.sat.hu/ikusi-flashd-c48-digitalis-foldfelszini-tv-antenna-3173?srsltid=AfmBOoqicoM5aMRo9iAcvIR_4QmPxyr4AOYSCxklJKDQJqXJ67bfkvK-)|
+
+---
+
+### 3. **Mérési helyszín és környezet**
+- **01 Mérési Hely: Hátsó udvar**
+  - **Antenna magassága**: 1.35m
+  - **Környezet jellemzői**: 3 °C, felhős idő.
+  - **Adó távolsága**:  ~795m
+- **02 Mérési Hely: 3. Emelet**
+  - **Antenna magassága**: 1.7m
+  - **Környezet jellemzői**: Szoba hőmérséklet ~23 °C
+  - **Adó távolsága**: ~755m
+- **03 Mérési Hely: V3 Labor**
+  - **Antenna magassága**: 1.7m
+  - **Környezet jellemzői**: Szoba hőmérséklet ~23 °C
+  - **Adó távolsága**:  ~780m
