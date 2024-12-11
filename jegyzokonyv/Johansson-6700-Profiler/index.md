@@ -1,15 +1,11 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** György Péter
-
-**A mérés tárgya:** Johansson 6700 Profiler
-
-**A mérés száma:**  07
-
-**A mérés dátuma:**  2024.12.04
-
-**A mérést vezette:** Sándor Péter  
+**A mérést végző neve:** György Péter  
+**A mérés tárgya:** Johansson 6700 Profiler  
+**A mérés száma:** 07  
+**A mérés dátuma:** 2024.12.04  
+**A mérést vezette:** Sándor Péter
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
