@@ -1,1 +1,1 @@
-Kész Jegyzőkönyvek: T-kapcsolás, Pi-kapcsolás, Frekvencia áthelyezés
+Kész Jegyzőkönyvek: 01T-kapcsolás, 02Pi-kapcsolás, 07Frekvencia áthelyezés
