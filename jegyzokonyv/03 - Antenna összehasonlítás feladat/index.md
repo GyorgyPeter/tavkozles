@@ -4,7 +4,7 @@
 **A mérést végző neve:** György Péter  
 **A mérés tárgya:** Johansson 6700 Profiler  
 **A mérés száma:** 03  
-**A mérés dátuma:** 2024.12.04  
+**A mérés dátuma:** 2024.12.11  
 **A mérést vezette:** Sándor Péter
 
 **Évfolyam:** 13. E  
