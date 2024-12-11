@@ -21,9 +21,9 @@ A gyakorlat célja, hogy a különböző antennák jel erősségeit összehasonl
 
 ## 2. Alkalmazott mérőeszközök és készülékek
 
-| Műszer neve                         | Típus               | Gyártási szám |
-| ----------------------------------- | ------------------- | ------------- |
-| Spektrum Analizátor                 | Metek HDD           |  211112002390 |
-| DVB-T Szoba Antenna                 | Smart HD 550        |      ...      |
-| DVB-T                               |ISKRA P2845          |      ...      |
-| DVB-T                               |IKUSI FLASHD C48     |      ...      |
+| Műszer neve                         | Típus               | Gyártási szám | Leírás |
+| ----------------------------------- | ------------------- | ------------- |--------|
+| Spektrum Analizátor                 | Metek HDD           |  211112002390 |[Leírás](https://www.ek.plus/en/product/metek-hdd/)|
+| DVB-T Szoba Antenna                 | Smart HD 550        |      ...      |[Leírás](https://bolt.sat.hu/opticum-smart-hd-550-szobaantenna-3135?srsltid=AfmBOopzsStuWMBIGKVNKGFObYG5-NeQaW_3Z0zCVwr0YBzbp-i0dHRI)|
+| DVB-T                               |ISKRA P2845          |      ...      |[Leírás](https://www.iskra.eu/en/UHF-antennas/UHF-TV-Antenna-P-2845/)|
+| DVB-T                               |IKUSI FLASHD C48     |      ...      |[Leírás](https://bolt.sat.hu/ikusi-flashd-c48-digitalis-foldfelszini-tv-antenna-3173?srsltid=AfmBOoqicoM5aMRo9iAcvIR_4QmPxyr4AOYSCxklJKDQJqXJ67bfkvK-)|
