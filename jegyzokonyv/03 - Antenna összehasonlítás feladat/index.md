@@ -64,27 +64,21 @@ A gyakorlat célja, hogy a különböző antennák jel erősségeit összehasonl
 ## 6. Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- ...
-- ...
-- ...
+- A méréshez használt antennák közül az ISKRA P2845 teljesítménye volt a legnagyobb.
+- Az IKUSI FLASHD C48 közel járt, de direkcionalitása miatt nem volt a legjobb a mért irányban.
+- A SMART HD 550 szoba antenna a laborban jobban teljesített zárt körülnények között.
+
 ---
 
 ## 7. Konklúzió
 ...
 ---
 
-## 8. Mérési nehézségek és eltérések
+## 8. Javaslatok
 ...
 ---
 
-
----
-
-## 9. Javaslatok
-...
----
-
-## 10. Antenna mérési képek:
+## 9. Antenna mérési képek:
 **Smart HD 550 Képek:**
 <details>
 <summary>Kattins a részletekért</summary>
