@@ -43,7 +43,9 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 
 <details open>
 <summary>Spektrum analizátor előtte utánna</summary>
+  
   ![Képernyőkép 2024-12-04 125312](https://github.com/user-attachments/assets/cae94bd6-2c52-4b42-9035-25169946a9a9)
+  
 </details>
 
 | Antenna típusa    | Eredeti csatorna  | Áthelyezett csatorna | Eredeti frekvencia | Áthelyezett frekvencia | Bemeneti jelszint (dBu) | Kimeneti jelszint (dBu) |
