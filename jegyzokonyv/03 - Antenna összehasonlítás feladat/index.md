@@ -84,7 +84,8 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 ...
 ---
 
-## 10. Smart HD 550 Képek:
+## 10. Antenna mérési képek:
+**Smart HD 550 Képek:**
 <details>
 <summary>Kattins a részletekért</summary>
   
@@ -107,7 +108,7 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 <br>
 
-## 11. P-2845 Képek:
+**P-2845 Képek:**
 <details>
 
 <summary>Kattins a részletekért</summary>
@@ -131,7 +132,7 @@ Az adatok alapján az alábbi következtetéseket lehet levonni:
 
 <br>
 
-## 12. IKUSI FLASHD C48 Képek:
+**IKUSI FLASHD C48 Képek:**
 <details>
 <summary>Kattins a részletekért</summary>
   
