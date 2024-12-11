@@ -35,9 +35,17 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 **Időjárás:** 5°C, Sűrű köd
 **Adó távolsága:**  ~780 Méter
 
+![Képernyőkép 2024-12-04 135103](https://github.com/user-attachments/assets/5420b62d-be85-4106-a857-f2d8cbb17b90)
+
 ---
 
 ## 4.  Mérés
+
+<details open>
+<summary>Spektrum analizátor előtte utánna</summary>
+  ![Képernyőkép 2024-12-04 125312](https://github.com/user-attachments/assets/cae94bd6-2c52-4b42-9035-25169946a9a9)
+</details>
+
 | Antenna típusa    | Eredeti csatorna  | Áthelyezett csatorna | Eredeti frekvencia | Áthelyezett frekvencia | Bemeneti jelszint (dBu) | Kimeneti jelszint (dBu) |
 |--------------------------|-------------------|----------------------|--------------------|------------------------|------------------------|------------------------|
 | DVB-T Szoba Antenna | 28         | 41            | 530 Mhz            | 634 MHz                |             61          | ~100           |
@@ -70,9 +78,3 @@ A mérési folyamat során sikeresen végrehajtottuk a beérkező csatornák át
 
 Az eszköz beállításainak finomhangolása során a kimeneti jelszintek stabilizálódtak, és sikeresen elértük a kívánt 100 dBu-s erősítést, amely lehetővé tette a csatornák megfelelő teljesítményének biztosítását. A mérések során tapasztalt zökkenőmentes működés és az eredmények megerősítették a beállítások hatékonyságát. A mérés során alkalmazott műszerek pontosan rögzítették a jelek viselkedését, és az adatok egyértelműen visszaigazolták a csatornák áthelyezésének sikerét.
 
-<details>
-
-![Képernyőkép 2024-12-04 125312](https://github.com/user-attachments/assets/cae94bd6-2c52-4b42-9035-25169946a9a9)
-![Képernyőkép 2024-12-04 135103](https://github.com/user-attachments/assets/5420b62d-be85-4106-a857-f2d8cbb17b90)
-
-</details>
