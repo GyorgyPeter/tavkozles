@@ -31,8 +31,8 @@ A gyakorlat célja, hogy a diákok elsajátítsák a Johansson 6700 Profiler ant
 ---
 
 ## 3. Mérési helyszín és környezet
-**Antenna magassága:** 1,65 Méter
-**Időjárás:** 5°C, Sűrű köd
+**Antenna magassága:** 1,65 Méter  
+**Időjárás:** 5°C, Sűrű köd  
 **Adó távolsága:**  ~780 Méter
 
 ![Képernyőkép 2024-12-04 135103](https://github.com/user-attachments/assets/5420b62d-be85-4106-a857-f2d8cbb17b90)
