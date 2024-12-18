@@ -1,1 +1,1 @@
-Kész Jegyzőkönyvek: 01T-kapcsolás, 02Pi-kapcsolás, 07Frekvencia áthelyezés, 03 - Antenna összehasonlítás feladat
+Kész Jegyzőkönyvek: 01 - T-kapcsolás, 02 - Pi-kapcsolás, 07 - Frekvencia áthelyezés, 03 - Antenna összehasonlítás feladat
