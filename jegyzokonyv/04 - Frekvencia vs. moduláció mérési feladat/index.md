@@ -52,15 +52,15 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 ---
 
 ## 5. Mérési eredmények elemzése
-Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- ...
-- ...
-- ...
+A táblázat alapján az IKUSI FLASHD C48 antenna teljesít a legjobban mindkét frekvencián *(610 MHz és 474 MHz)*. A 610 MHz frekvencián magasabb MER értéket *(~32.4 dB)* és bitsebességet *(~10.6 Mb/s)* ér el, bár a jelszintje *(~-52.9 dBm)* nem a legjobb. A 474 MHz frekvencián is kiemelkedik a többi antennával szemben, magasabb MER értékkel *(~24.6 dB)* és bitsebességgel *(~12.1 Mb/s)*, valamint jobb jelszinttel *(~-54.6 dBm)* rendelkezik. Az ISKRA P-20 antenna a 610 MHz frekvencián jobb, míg a 474 MHz frekvencián gyengébb teljesítményt mutat. Összességében az IKUSI FLASHD C48 antenna a legjobb választás mindkét frekvencián a legmagasabb MER és bitsebesség értékek alapján.
+
 ---
 
 ## 6. Konklúzió
+
 ...
+
 ---
 
 ## 7. Mérési nehézségek és eltérések
