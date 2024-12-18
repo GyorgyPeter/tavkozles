@@ -24,7 +24,7 @@ A gyakorlat célja, hogy a különböző antennák jel erősségeit összehasonl
 | Műszer neve                         | Típus               | Leírásról link |
 | ----------------------------------- | ------------------- |----------------|
 | Spektrum Analizátor                 | Metek HDD           |[Leírás](https://www.ek.plus/en/product/metek-hdd/)|
-| DVB-T Szoba Antenna                 | ISKRA P20           |[Leírás](https://www.iskra.eu/en/UHF-antennas/UHF-TV-Antenna-P-20-W/)|
+| DVB-T Szoba Antenna                 | SMART HD 550        |[Leírás](https://www.iskra.eu/en/UHF-antennas/UHF-TV-Antenna-P-20-W/)|
 | DVB-T Antenna                       | ISKRA P2845         |[Leírás](https://www.iskra.eu/en/UHF-antennas/UHF-TV-Antenna-P-2845/)|
 | DVB-T Antenna                       | IKUSI FLASHD C48    |[Leírás](https://bolt.sat.hu/ikusi-flashd-c48-digitalis-foldfelszini-tv-antenna-3173?srsltid=AfmBOoqicoM5aMRo9iAcvIR_4QmPxyr4AOYSCxklJKDQJqXJ67bfkvK-)|
 
