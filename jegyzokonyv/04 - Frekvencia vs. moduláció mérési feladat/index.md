@@ -21,12 +21,12 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 
 ## 2. Alkalmazott mérőeszközök és készülékek
 
-| Műszer neve                         | Típus       | Gyártási szám |
-| ----------------------------------- | ----------- | ------------- |
-| ...  | ...   | ...          |
-| ...                             | ...       | ...    |
-| ...                             | ...       | ...    |
-| ...                 | ...       | ...           |
+| Műszer                              | Típus               | Leírásról link |
+| ----------------------------------- | ------------------- |----------------|
+| Spektrum Analizátor                 | Metek HDD           |[Leírás](https://www.ek.plus/en/product/metek-hdd/)|
+| DVB-T Antenna                       | ISKRA P-20       |[Leírás](https://bolt.sat.hu/opticum-smart-hd-550-szobaantenna-3135?srsltid=AfmBOopzsStuWMBIGKVNKGFObYG5-NeQaW_3Z0zCVwr0YBzbp-i0dHRI)|
+| DVB-T Antenna                       | ISKRA P-2845         |[Leírás](https://www.iskra.eu/en/UHF-antennas/UHF-TV-Antenna-P-2845/)|
+| DVB-T Antenna                       | IKUSI FLASHD C48    |[Leírás](https://bolt.sat.hu/ikusi-flashd-c48-digitalis-foldfelszini-tv-antenna-3173?srsltid=AfmBOoqicoM5aMRo9iAcvIR_4QmPxyr4AOYSCxklJKDQJqXJ67bfkvK-)|
 
 ---
 
