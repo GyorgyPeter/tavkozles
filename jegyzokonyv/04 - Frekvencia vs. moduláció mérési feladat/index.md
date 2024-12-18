@@ -4,12 +4,12 @@
 **A mérést végző neve:** György Péter  
 **A mérés tárgya:** Frekvencia vs. moduláció mérési feladat  
 **A mérés száma:** 04  
-**A mérés dátuma:** 2024.12.18
+**A mérés dátuma:** 2024.12.18  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
-**Helyszín:** V3 Labor
+**Helyszín:** V3 Labor  
 
 ---
 
