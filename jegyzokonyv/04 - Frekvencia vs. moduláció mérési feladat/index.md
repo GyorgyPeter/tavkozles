@@ -41,12 +41,12 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **610**          | ISKRA P-20        | ~ -50.3 dBm   | ~32.2 dB | ~12.6 Mb/s    |
-|                  | ISKRA P-2845      | ~ -54.6 dBm   | ~30.7 dB | ~11.2 Mb/s    |
-|                  | IKUSI FLASHD C48  | ~ -52.9 dBm   | ~32.4 dB | ~10.6 Mb/s    |
-| **474**          | ISKRA P-20        | ~ -63.7 dBm   | ~20.0 dB | ~8.6 Mb/s     |
-|                  | ISKRA P-2845      | ~ -58.5 dBm   | ~22.2 dB | ~9.0 Mb/s     |
-|                  | IKUSI FLASHD C48  | ~ -54.6 dBm   | ~24.6 dB | ~12.1 Mb/s    |
+| **610**          | ISKRA P-20        | ~ -50.3 dBm   | ~32.2 dB | ~12.6 Mb/s         |
+|                  | ISKRA P-2845      | ~ -54.6 dBm   | ~30.7 dB | ~11.2 Mb/s         |
+|                  | IKUSI FLASHD C48  | ~ -52.9 dBm   | ~32.4 dB | ~10.6 Mb/s         |
+| **474**          | ISKRA P-20        | ~ -63.7 dBm   | ~20.0 dB | ~8.6 Mb/s          |
+|                  | ISKRA P-2845      | ~ -58.5 dBm   | ~22.2 dB | ~9.0 Mb/s          |
+|                  | IKUSI FLASHD C48  | ~ -54.6 dBm   | ~24.6 dB | ~12.1 Mb/s         |
 
 
 ---
