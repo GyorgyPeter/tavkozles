@@ -1,7 +1,7 @@
 
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Szabó Kristóf
+**A mérést végző neve:** György Péter
 
 **A mérés tárgya:** Tranzisztor működésének vizsgálata
 
@@ -77,8 +77,8 @@ Tranzisztor működésének vizsgálata a bemeneti feszültség változtatásáv
 
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 
-- 1V feszültség felett minimális változások vehetők észre az Rc ellenállást mérve
-- A mért és a szimulált áramkör között jelentős eltérések vannak
+- 1V feszültség körül az URc feszültésge nagyából stabilizálódik egy viszonylag stabil szintre 
+- A mért és a szimulált áramkör között észrevehetőek eltérések.
 
 ---
 ## 6. Grafikon
