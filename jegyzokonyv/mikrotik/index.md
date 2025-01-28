@@ -10,3 +10,4 @@ Kezdés: Reseteljük az antennákat a (Mikrotik nRay 60GHz és Mikrotik LHG18 LT
 |    SINR   |  ~  21    |  
 |    RSRQ   |  ~ -12    |  
 
+LAN Network:100.82.157.99
