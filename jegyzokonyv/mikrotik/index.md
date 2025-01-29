@@ -11,3 +11,7 @@ Kezdés: Reseteljük az antennákat a (Mikrotik nRay 60GHz és Mikrotik LHG18 LT
 |    RSRQ   |  ~ -12    |  
 
 LAN Network:100.82.157.99
+
+signal: 95
+PHY rate: ~ 2Gbps
+
