@@ -89,17 +89,17 @@ A GRF-1300A, a GSP-730-at az alábbi módon vezetékekkel csatlakoztattuk:
 
 A Rohde & Schwarz HMO 1002 Series Oszciloszkóp Ch1 csatornályát a GRF-1300A BaseBand részéhez csatlakoztattuk.  
 **2 Lépés:**  
-A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 880MHz vivőfrekvenciát. A BaseBand-nél pedig a 100kHz-s sinuszos moduláló jelet 100%-os modulációs mélységgel.  
+A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 880MHz vivőfrekvenciát. A BaseBand-nél pedig a 100kHz-s szinuszos moduláló jelet 100%-os modulációs mélységgel.  
 **3. Lépés:**  
 Ac HMO 1002-es Oszcilloszkópot finomhangoljuk hogy megfigyelhessük a 100kHz-s moduláló jelet, A GSP-730 Spektrumanalizátort pedig beállítjuk a fentebb említet modulált jel megfigyeléséhez, és lejegyezzük a mért eredményeket.  
 **4. Lépés:**  
-A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekvenciát. A BaseBand-nél pedig a 500kHz-s sinuszos moduláló jelet 63%-os modulációs mélységgel. Az eredményeket ismét lejegyezzük.
+A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekvenciát. A BaseBand-nél pedig a 500kHz-s szinuszos moduláló jelet 63%-os modulációs mélységgel. Az eredményeket ismét lejegyezzük.
 
 ---
 
 ## 4 *Mérési eredmények*
 
-### 880 MHz-s mérési eredmények:
+### 880 MHz-s mérési eredmények (*100kHz-s szinuszos moduláló jellel*):
 **Vpp:** *1.09V*  
 **Carrier power:** *30.9 dBm*  
 **Modulációs mélység:** *6 dB*  
@@ -119,7 +119,7 @@ HMO 1002:
 
 </details>
 
-### 900 MHz-s mérési eredmények:
+### 900 MHz-s mérési eredmények (*500kHz-s szinuszos moduláló jellel*):
 **Vpp:** *1.20*  
 **Carrier power:** *32.1 dBm*  
 **Modulációs mélység:** *10 dB*  
