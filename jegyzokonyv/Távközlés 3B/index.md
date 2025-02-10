@@ -36,6 +36,8 @@
 
 **GRF-1300A**  
 <details>
+
+<summary>Kép és leírás:</summary>
  
 *Leírás: https://www.gwinstek.com/en-global/products/detail/GRF-1300A*
  ![GRF-1300A](https://github.com/user-attachments/assets/fcc581d3-ce2f-4d83-90f4-6f88582c2590) 
@@ -45,6 +47,8 @@
 **Rohde&Schwarz HMO 1002 Series**  
 <details>
  
+<summary>Kép és leírás:</summary>
+ 
 *Leírás: https://www.rohde-schwarz.com/manual/hmo1002/*
  ![Képernyőkép 2025-02-10 125359](https://github.com/user-attachments/assets/84bfcd79-59d9-41f8-8049-a2df205e6c98)
 
@@ -53,6 +57,8 @@
 **GSP-730**
 <details>
  
+<summary>Kép és leírás:</summary>
+ 
 *Leírás: https://www.gwinstek.com/en-global/products/detail/GSP-730*
 ![Képernyőkép 2025-02-10 120314](https://github.com/user-attachments/assets/a581b7a4-3416-4364-97c1-c13bb695633a)
 
@@ -60,6 +66,8 @@
 
 **RF kábel**
 <details>
+ 
+<summary>Kép és leírás:</summary>
  
 ![Képernyőkép 2025-02-10 120913](https://github.com/user-attachments/assets/d256b722-1a14-4a2a-a3e3-eda4be041d5c)
 
