@@ -87,7 +87,8 @@ A Rohde & Schwarz HMO 1002 Series Oszciloszkóp Ch1-es csatornályát a GRF-1300
 A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 880MHz vivőfrekvenciát. A BaseBand-nél pedig a 100kHz-s sinuszos moduláló jelet.
 **3. Lépés:**
 Ac HMO 1002-es Oszcilloszkópot finomhangoljuk hogy megfigyelhessük a 100kHz-s moduláló jelet, A GSP-730 Spektrumanalizátort pedig az alábbi módon beállítjuk a modulált jel megfigyeléséhez:
-![Uploading Képernyőkép 2025-02-10 131402.png…]()
+
+![Képernyőkép 2025-02-10 131402](https://github.com/user-attachments/assets/c365fb7a-eeeb-40f4-9be7-f71fef83db7b)
 
 ![Képernyőkép 2025-02-10 131417](https://github.com/user-attachments/assets/165552b9-2ae8-4655-a5db-4aae053fc731)
 
