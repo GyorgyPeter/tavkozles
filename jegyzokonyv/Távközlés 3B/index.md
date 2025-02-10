@@ -32,9 +32,9 @@
 |Adapter|N-SMA Adapter|
 |Student Textbook|RF & Communication Trainer|
 
-**<details open>**
+<details open>
 
-<summary>Képek és leírások:</summary>
+***<summary>Képek és leírások:</summary>***
 
 **GRF-1300A**  
 <details>
