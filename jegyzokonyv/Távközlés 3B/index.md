@@ -69,7 +69,7 @@
 **RF kábel**
 <details>
  
-<summary>Kép és leírás:</summary>
+<summary>Kép:</summary>
  
 ![Képernyőkép 2025-02-10 120913](https://github.com/user-attachments/assets/d256b722-1a14-4a2a-a3e3-eda4be041d5c)
 
