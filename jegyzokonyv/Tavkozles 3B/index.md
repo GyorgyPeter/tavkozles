@@ -138,5 +138,9 @@ HMO 1002:
 
 </details>
 
+---
+
 ## 5. Konklúzió:
 **900 MHz mérés hátrányai:** A 900 MHz-es mérés nagyobb modulációs mélysége (10 dB) intenzívebb modulációt és szélesebb spektrális eloszlást eredményez, ami potenciálisan több zavaró jelenséget okozhat, és nagyobb energiafogyasztást igényelhet a jeltovábbítás során. A 880 MHz-hez képest a 900 MHz-es mérés rosszabb, mert intenzívebb modulációt és szélesebb sávszélességet eredményez, ami kevésbé hatékony spektrumhasználatot jelenthet.
+
+---
