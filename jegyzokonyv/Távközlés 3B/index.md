@@ -112,8 +112,8 @@ Képek a méréési eredményekről:
 Vpp:
 Modulációs mélység: *10dB*  
 Sávszélesség/Bandwidth:  
-**Vélemény az eredményről:**  
 
+**Vélemény az eredményről:**  
 
 Képek a méréési eredményekről:  
 
