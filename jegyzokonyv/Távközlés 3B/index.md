@@ -25,12 +25,12 @@
 |RF komunikációs Tréner|GRF-1300A|GEX913036|
 |Spektrum Analizátor|Gw INSTEK GSP-730 |GEX120304|
 |Oszciloszkóp|Rohde&Schwarz HMO 1002 Series|3593.1764K02-102609-WG|
-|RF kábel|100mm Mikrokoaksz 1db||
-||200mm Mikrokoaksz 1db||
-||800mm Mikrokoaksz 1db||
-|AC Powercord|100-240V ~ 50-60Hz||
-|Adapter|N-SMA Adapter||
-|Student Textbook|RF & Communication Trainer||
+|RF kábel|100mm Mikrokoaksz 1db|
+||200mm Mikrokoaksz 1db|
+||800mm Mikrokoaksz 1db|
+|AC Powercord|100-240V ~ 50-60Hz|
+|Adapter|N-SMA Adapter|
+|Student Textbook|RF & Communication Trainer|
 
 <details open>
 
