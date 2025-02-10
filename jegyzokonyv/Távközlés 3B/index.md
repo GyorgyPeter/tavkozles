@@ -107,6 +107,9 @@ Sávszélesség/Bandwidth:
 
 Képek a méréési eredményekről:  
 
+![TA01](https://github.com/user-attachments/assets/8c53204a-903f-40b2-afab-c482f516b973)
+
+![SCR00](https://github.com/user-attachments/assets/c4a8f286-168e-4b6e-8d1c-cc62a674c242)
 
 ### 900MHz-s mérési eredmények:
 Vpp:
@@ -117,3 +120,6 @@ Sávszélesség/Bandwidth:
 
 Képek a méréési eredményekről:  
 
+![TA02](https://github.com/user-attachments/assets/c0c42b46-03e4-4809-b854-3a6c8a17eb63)
+
+![SCR01](https://github.com/user-attachments/assets/77ecc778-82b5-41f6-ab6a-e947a33614ba)
