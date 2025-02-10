@@ -85,16 +85,24 @@ A GRF-1300A, a GSP-730-at az alábbi módon vezetékekkel csatlakoztattuk:
 ![Képernyőkép 2025-02-10 124124](https://github.com/user-attachments/assets/7f27b2f2-4c10-496c-bdd9-0459caa582b0)
 
 A Rohde & Schwarz HMO 1002 Series Oszciloszkóp Ch1-es csatornályát a GRF-1300A BaseBand részéhez csatlakoztattuk.
-**2 Lépés:**
-A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 880MHz vivőfrekvenciát. A BaseBand-nél pedig a 100kHz-s sinuszos moduláló jelet.
-**3. Lépés:**
-Ac HMO 1002-es Oszcilloszkópot finomhangoljuk hogy megfigyelhessük a 100kHz-s moduláló jelet, A GSP-730 Spektrumanalizátort pedig az alábbi módon beállítjuk a modulált jel megfigyeléséhez:
+**2 Lépés:**  
+A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 880MHz vivőfrekvenciát. A BaseBand-nél pedig a 100kHz-s sinuszos moduláló jelet 100%-os modulációs mélységgel.
+**3. Lépés:**  
+Ac HMO 1002-es Oszcilloszkópot finomhangoljuk hogy megfigyelhessük a 100kHz-s moduláló jelet, A GSP-730 Spektrumanalizátort pedig az alábbi módon beállítjuk a modulált jel megfigyeléséhez, és lejegyezzük a mért eredményeket:
 
 ![Képernyőkép 2025-02-10 131402](https://github.com/user-attachments/assets/c365fb7a-eeeb-40f4-9be7-f71fef83db7b)
 
 ![Képernyőkép 2025-02-10 131417](https://github.com/user-attachments/assets/165552b9-2ae8-4655-a5db-4aae053fc731)
 
+**4. Lépés:**  
+A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekvenciát. A BaseBand-nél pedig a 500kHz-s sinuszos moduláló jelet 63%-os modulációs mélységgel. Az eredményeket ismét lejegyezzük.
+
+---
+
 ## 4 *Mérési eredmények*
 
+### 880MHz-s mérési eredmnyek:
 
 
+
+### 900MHz-s mérési eredmények:
