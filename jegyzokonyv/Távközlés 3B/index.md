@@ -20,17 +20,17 @@
 
 ## 2. *Eszközök*
 
-|  *Eszköz*  |  *Név/Tipus*  |
-|----------|-------------|
-|RF komunikációs Tréner|GRF-1300A|
-|Spektrum Analizátor|Gw INSTEK GSP-730 |
-|Oszciloszkóp|Rohde&Schwarz HMO 1002 Series|
-|RF kábel|100mm Mikrokoaksz 1db|
-||200mm Mikrokoaksz 1db|
-||800mm Mikrokoaksz 1db|
-|AC Powercord|100-240V ~ 50-60Hz|
-|Adapter|N-SMA Adapter|
-|Student Textbook|RF & Communication Trainer|
+|  *Eszköz*  |  *Név/Tipus*  | Sorozat szám|
+|----------|-------------|-----------|
+|RF komunikációs Tréner|GRF-1300A|GEX913036|
+|Spektrum Analizátor|Gw INSTEK GSP-730 |GEX120304|
+|Oszciloszkóp|Rohde&Schwarz HMO 1002 Series|3593.1764K02-102609-WG|
+|RF kábel|100mm Mikrokoaksz 1db||
+||200mm Mikrokoaksz 1db||
+||800mm Mikrokoaksz 1db||
+|AC Powercord|100-240V ~ 50-60Hz||
+|Adapter|N-SMA Adapter||
+|Student Textbook|RF & Communication Trainer||
 
 <details open>
 
@@ -111,9 +111,9 @@ Sávszélesség/Bandwidth:
 <summary>Képek a mérési eredményekről:</summary>
 
 GSP-730:  
-![TA01](https://github.com/user-attachments/assets/8c53204a-903f-40b2-afab-c482f516b973)  
-HMO 1002:  
 ![SCR00](https://github.com/user-attachments/assets/c4a8f286-168e-4b6e-8d1c-cc62a674c242)  
+HMO 1002:  
+![TA01](https://github.com/user-attachments/assets/8c53204a-903f-40b2-afab-c482f516b973)  
 
 </details>
 
@@ -130,8 +130,8 @@ Sávszélesség/Bandwidth:
 <summary>Képek a mérési eredményekről:</summary>
  
 GSP-730:  
-![TA02](https://github.com/user-attachments/assets/c0c42b46-03e4-4809-b854-3a6c8a17eb63)   
-HMO 1002:  
 ![SCR01](https://github.com/user-attachments/assets/77ecc778-82b5-41f6-ab6a-e947a33614ba)  
+HMO 1002:  
+![TA02](https://github.com/user-attachments/assets/c0c42b46-03e4-4809-b854-3a6c8a17eb63)  
 
 </details>
