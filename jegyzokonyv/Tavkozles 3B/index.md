@@ -107,7 +107,7 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 **Vélemény az eredményről:**  
 Az 880 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.09V Vpp, 30.9 dBm carrier power, 6 dB modulációs mélység és 5 MHz sávszélesség. Ez az alacsonyabb modulációs mélység kevésbé intenzív modulációt jelent, ami kisebb oldalsávokat eredményez.
 
-<details>
+**<details>**
 
 <summary>Képek a mérési eredményekről:</summary>
 
@@ -127,7 +127,7 @@ HMO 1002:
 **Vélemény az eredményről:**  
 A 900 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.20V Vpp, 32.1 dBm carrier power, 10 dB modulációs mélység és 5 MHz sávszélesség. A nagyobb modulációs mélység intenzívebb modulációt eredményez, ami szélesebb oldalsávokat jelent.
 
-<details>
+**<details>**
 
 <summary>Képek a mérési eredményekről:</summary>
  
