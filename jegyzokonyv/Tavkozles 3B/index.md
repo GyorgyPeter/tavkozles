@@ -87,7 +87,7 @@ A GRF-1300A, a GSP-730-at az alábbi módon vezetékekkel csatlakoztattuk:
 
 ![Képernyőkép 2025-02-10 124124](https://github.com/user-attachments/assets/7f27b2f2-4c10-496c-bdd9-0459caa582b0)
 
-A Rohde & Schwarz HMO 1002 Series Oszciloszkóp Ch1 csatornályát a GRF-1300A BaseBand részéhez csatlakoztattuk.  
+A Rohde & Schwarz HMO 1002 Series Oszciloszkóp Ch1 csatornályát a GRF-1300A AM részéhez csatlakoztattuk.  
 **2 Lépés:**  
 A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 880MHz vivőfrekvenciát. A BaseBand-nél pedig a 100kHz-s szinuszos moduláló jelet 100%-os modulációs mélységgel.  
 **3. Lépés:**  
