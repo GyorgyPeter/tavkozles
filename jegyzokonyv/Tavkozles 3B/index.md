@@ -105,7 +105,7 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 **Sávszélesség/Bandwidth:** *5 MHz*  
 
 **Vélemény az eredményről:**  
-
+Az 880 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.09V Vpp, 30.9 dBm carrier power, 6 dB modulációs mélység és 5 MHz sávszélesség. Ez az alacsonyabb modulációs mélység kevésbé intenzív modulációt jelent, ami kisebb oldalsávokat eredményez.
 
 <details>
 
@@ -125,7 +125,7 @@ HMO 1002:
 **Sávszélesség/Bandwidth:** *5 MHz*  
 
 **Vélemény az eredményről:**  
-
+A 900 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.20V Vpp, 32.1 dBm carrier power, 10 dB modulációs mélység és 5 MHz sávszélesség. A nagyobb modulációs mélység intenzívebb modulációt eredményez, ami szélesebb oldalsávokat jelent.
 
 <details>
 
@@ -137,3 +137,6 @@ HMO 1002:
 ![TA02](https://github.com/user-attachments/assets/c0c42b46-03e4-4809-b854-3a6c8a17eb63)  
 
 </details>
+
+## 5. Konklúzió:
+**900 MHz mérés hátrányai:** A 900 MHz-es mérés nagyobb modulációs mélysége (10 dB) intenzívebb modulációt és szélesebb spektrális eloszlást eredményez, ami potenciálisan több zavaró jelenséget okozhat, és nagyobb energiafogyasztást igényelhet a jeltovábbítás során. A 880 MHz-hez képest a 900 MHz-es mérés rosszabb, mert intenzívebb modulációt és szélesebb sávszélességet eredményez, ami kevésbé hatékony spektrumhasználatot jelenthet.
