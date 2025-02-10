@@ -119,7 +119,7 @@ HMO 1002:
 </details>
 
 ### 900 MHz-s mérési eredmények:
-**Vpp:** *1.20*
+**Vpp:** *1.20*  
 **Carrier power:** *32.1 dBm*  
 **Modulációs mélység:** *10 dB*  
 **Sávszélesség/Bandwidth:** *5 MHz*  
