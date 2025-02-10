@@ -99,9 +99,10 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 ## 4 *Mérési eredmények*
 
 ### 880MHz-s mérési eredmények:
-Vpp:  
-Modulációs mélység: *6dB*  
-Sávszélesség/Bandwidth:  
+**Vpp:** **  
+**Carrier power:** **  
+**Modulációs mélység:** *6dB*  
+**Sávszélesség/Bandwidth:** **  
 
 **Vélemény az eredményről:**  
 
@@ -118,9 +119,9 @@ HMO 1002:
 </details>
 
 ### 900MHz-s mérési eredmények:
-Vpp:
-Modulációs mélység: *10dB*  
-Sávszélesség/Bandwidth:  
+**Vpp:** **
+**Modulációs mélység:** *10dB*  
+**Sávszélesség/Bandwidth:** **  
 
 **Vélemény az eredményről:**  
 
