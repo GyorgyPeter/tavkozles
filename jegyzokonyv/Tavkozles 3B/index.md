@@ -106,7 +106,7 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 **Sávszélesség/Bandwidth:** *200 MHz*  
 
 **Vélemény az eredményről:**  
-Ez az alacsonyabb modulációs mélység kevésbé intenzív modulációt jelent, ami kisebb oldalsávokat eredményez.
+Az 880 MHz-es mérés eredményei alapján a jel amplitúdója viszonylag stabil maradt, és a sávszélesség sem túlzottan széles, ami jó jel az interferencia minimalizálása szempontjából. Ugyanakkor a hordozó teljesítménye alacsony volt, ami korlátozhatja a hatótávot és az átvitel minőségét.
 
 <details>
 
