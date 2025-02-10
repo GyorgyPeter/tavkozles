@@ -106,7 +106,7 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 **Sávszélesség/Bandwidth:** *200 MHz*  
 
 **Vélemény az eredményről:**  
-Az 880 MHz-es mérés eredményei alapján a jel amplitúdója viszonylag stabil maradt, és a sávszélesség sem túlzottan széles, ami jó jel az interferencia minimalizálása szempontjából. Ugyanakkor a hordozó teljesítménye alacsony volt, ami korlátozhatja a hatótávot és az átvitel minőségét.
+Az 880 MHz-es mérés eredményei alapján a jel amplitúdója viszonylag stabil maradt, és a sávszélesség sem túlzottan széles, ami jó jel az interferencia minimalizálása szempontjából. Ugyanakkor a hordozó teljesítménye alacsony volt, ami korlátozhatja a hatótávot és az átvitel minőségét.  
 
 <details>
 
@@ -126,7 +126,7 @@ HMO 1002:
 **Sávszélesség/Bandwidth:** *1 MHz*  
 
 **Vélemény az eredményről:**  
-A nagyobb modulációs mélység intenzívebb modulációt eredményez, ami szélesebb oldalsávokat jelent.
+A 900 MHz-es mérés során a modulációs mélység magasabb volt, ami jobb jelminőséget eredményezhet, de a szélesebb sávszélesség növeli az interferencia kockázatát. Emellett a hordozó teljesítménye is alacsonyabb volt, ami szintén kihívásokat jelenthet az átvitel hatékonysága szempontjából.  
 
 <details>
 
@@ -141,7 +141,7 @@ HMO 1002:
 
 ---
 
-## 5. Konklúzió:
-A 900 MHz-es mérés nagyobb modulációs mélysége (10 dB) intenzívebb modulációt és szélesebb spektrális eloszlást eredményez, ami potenciálisan több zavaró jelenséget okozhat, és nagyobb energiafogyasztást igényelhet a jeltovábbítás során. A 880 MHz-hez képest a 900 MHz-es mérés rosszabb, mert intenzívebb modulációt és szélesebb sávszélességet eredményez, ami kevésbé hatékony spektrumhasználatot jelenthet.
+## 5. Konklúzió:  
+A 900 MHz-es mérések hátrányai közé tartozik a jelentősen nagyobb sávszélesség, amely növeli az interferencia és a jeltorzulás esélyét. Ezen kívül a magasabb modulációs mélység ugyan jobb jelminőséget kínál, de a hordozó teljesítménye itt is alacsony marad, ami negatívan befolyásolhatja a távolsági átvitel megbízhatóságát. Összességében tehát a 900 MHz-es mérések esetében a nagyobb interferenciakockázat és az alacsony hordozó teljesítmény jelenthetik a főbb kihívásokat.  
 
 ---
