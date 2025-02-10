@@ -109,7 +109,7 @@ Az 880 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.09V Vpp, 
 
 **<details>**
 
-<summary>Képek a mérési eredményekről:</summary>
+**<summary>Képek a mérési eredményekről:</summary>**
 
 GSP-730:  
 ![SCR00](https://github.com/user-attachments/assets/c4a8f286-168e-4b6e-8d1c-cc62a674c242)  
@@ -129,7 +129,7 @@ A 900 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.20V Vpp, 3
 
 **<details>**
 
-<summary>Képek a mérési eredményekről:</summary>
+**<summary>Képek a mérési eredményekről:</summary>**
  
 GSP-730:  
 ![SCR01](https://github.com/user-attachments/assets/77ecc778-82b5-41f6-ab6a-e947a33614ba)  
