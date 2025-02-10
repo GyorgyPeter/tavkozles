@@ -103,7 +103,7 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 **Vpp:** *1.09V*  
 **Carrier power:** *30.9 dBm*  
 **Modulációs mélység:** *6 dB*  
-**Sávszélesség/Bandwidth:** *5 MHz*  
+**Sávszélesség/Bandwidth:** *200 MHz*  
 
 **Vélemény az eredményről:**  
 Ez az alacsonyabb modulációs mélység kevésbé intenzív modulációt jelent, ami kisebb oldalsávokat eredményez.
@@ -123,7 +123,7 @@ HMO 1002:
 **Vpp:** *1.20*  
 **Carrier power:** *32.1 dBm*  
 **Modulációs mélység:** *10 dB*  
-**Sávszélesség/Bandwidth:** *5 MHz*  
+**Sávszélesség/Bandwidth:** *1 MHz*  
 
 **Vélemény az eredményről:**  
 A nagyobb modulációs mélység intenzívebb modulációt eredményez, ami szélesebb oldalsávokat jelent.
