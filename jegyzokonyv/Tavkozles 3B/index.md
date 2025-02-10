@@ -32,7 +32,7 @@
 |Adapter|N-SMA Adapter|
 |Student Textbook|RF & Communication Trainer|
 
-<details open>
+<details>
 
 ***<summary>Képek és leírások:</summary>***
 
@@ -107,9 +107,9 @@ A GRF-1300A trénert RF syntesizer/FM részén beálítottuk a 900MHz vivőfrekv
 **Vélemény az eredményről:**  
 Az 880 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.09V Vpp, 30.9 dBm carrier power, 6 dB modulációs mélység és 5 MHz sávszélesség. Ez az alacsonyabb modulációs mélység kevésbé intenzív modulációt jelent, ami kisebb oldalsávokat eredményez.
 
-**<details>**
+<details>
 
-**<summary>Képek a mérési eredményekről:</summary>**
+***<summary>Képek a mérési eredményekről:</summary>***
 
 GSP-730:  
 ![SCR00](https://github.com/user-attachments/assets/c4a8f286-168e-4b6e-8d1c-cc62a674c242)  
@@ -127,9 +127,9 @@ HMO 1002:
 **Vélemény az eredményről:**  
 A 900 MHz vivőfrekvencián az AM jel jellemzői közé tartozik az 1.20V Vpp, 32.1 dBm carrier power, 10 dB modulációs mélység és 5 MHz sávszélesség. A nagyobb modulációs mélység intenzívebb modulációt eredményez, ami szélesebb oldalsávokat jelent.
 
-**<details>**
+<details>
 
-**<summary>Képek a mérési eredményekről:</summary>**
+***<summary>Képek a mérési eredményekről:</summary>***
  
 GSP-730:  
 ![SCR01](https://github.com/user-attachments/assets/77ecc778-82b5-41f6-ab6a-e947a33614ba)  
