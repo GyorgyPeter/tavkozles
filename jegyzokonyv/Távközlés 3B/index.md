@@ -1,7 +1,7 @@
 # *MÉRÉSI JEGYZŐKÖNYV*
 
 ***A mérést végző neve:** György Péter*  ((szija)Hivatalosan Vad Leventétől)  
-***A mérés tárgya:** Ampitudómoduláció vizsgálata GRF-1300A trnerrel*  
+***A mérés tárgya:** Ampitudómoduláció vizsgálata GRF-1300A trénerrel*  
 ***A mérés száma:** 3B*  
 ***A mérés dátuma:** 2025.02.10*  
 ***A mérést vezette:** Sándor Péter*  
