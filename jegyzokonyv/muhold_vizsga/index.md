@@ -35,12 +35,10 @@
   
   ### Mérések és dokumentáció – Set-Top Box:
 
-- **Spektrum analizátor képe:** (jelosztó után)
-- **Jelszintek és jelminőség:**
-- **Transzponder adatok ellenőrzése:**
-- **Kimenő feszültség az LNB-re:**
-- **Polarizáció:**
-- **Hőmérséklet, időjárás feljegyzése:**
+- **Jelszintek és jelminőség:** 98%
+- **Kimenő feszültség az LNB-re:** 13V
+- **Polarizáció:** Horizontális
+- **Hőmérséklet, időjárás feljegyzése:** Labor környezet
 
 # Jelszintmérés és dokumentáció
 
