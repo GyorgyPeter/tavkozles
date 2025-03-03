@@ -48,3 +48,8 @@
 - **Transzponder adatok és frekvenciák:** 1358MHz
 
 <details>
+
+![its_snapshot_0001](https://github.com/user-attachments/assets/43967491-a119-4fcd-be62-d52f80f718c6)
+![its_snapshot_0002](https://github.com/user-attachments/assets/a1109379-9707-4998-ae50-19edac342920)
+
+</details>
