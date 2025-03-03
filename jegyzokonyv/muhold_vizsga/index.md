@@ -16,15 +16,23 @@
 - fok : 192.05° & 35.32°
 
 <details>
-  
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/K%C3%A9perny%C5%91k%C3%A9p%202025-03-03%20123425.png">
+
+![1741008785628](https://github.com/user-attachments/assets/729d63e6-3ee4-4a2f-98e5-ec54b06d8b7e)
+![1741008785614](https://github.com/user-attachments/assets/ea659561-3267-446f-95ed-64a06da711cf)
 
 </details>
 
 # Mérések és dokumentációk:
 
-## Set-top box beállítása és csatornakeresés
 
+
+## Set-top box beállítása és csatornakeresés
+<details>
+
+![1741008785600](https://github.com/user-attachments/assets/c74e3335-23e7-42cc-a9a0-dbd98d428cff)
+
+</details>
+  
   ### Mérések és dokumentáció – Set-Top Box:
 
 - **Spektrum analizátor képe:** (jelosztó után)
