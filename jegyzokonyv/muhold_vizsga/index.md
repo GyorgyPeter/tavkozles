@@ -10,9 +10,12 @@
 - **Jelosztó:** 2-es műholdas jelosztó a mérési pontok kialakításához
 - **Szerelési eszközök:** csavarhúzó, villáskulcs, iránytű, dőlésszögmérő
 
+---
+
 ## Antenna beállítása és műhold azonosítása:
 
-- Műhold: 9.0°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
+---
+- Műhold: 28.3°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
 - fok : 192.05° & 35.32°
 
 <details>
@@ -94,10 +97,10 @@
 
   ### Mérési eredmények rögzítése a jegyzőkönyvben:
 
-- **Jelerősség:** (74.9dBμV)  
-- **Jel-zaj viszony (SNR):** (5.2dB)  
-- **Bit Error Rate (BER)**  2,73
-- **Modulation Error Ratio (MER):** (12dB)  
+- **Jelerősség:** (88.0 dBμV)  
+- **Jel-zaj viszony (SNR):** (6.5 dB)  
+- **Bit Error Rate (BER)**  7.07E-3
+- **Modulation Error Ratio (MER):** (13.3 dB)  
 - **Csillapítás:** (dB)  
 - **Lock állapot:** Nem  
 - **Hőmérséklet és időjárási körülmények**  8 °C, Napos
