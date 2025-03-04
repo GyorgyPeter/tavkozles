@@ -10,7 +10,7 @@
 - **Jelosztó:** 2-es műholdas jelosztó a mérési pontok kialakításához
 - **Szerelési eszközök:** csavarhúzó, villáskulcs, iránytű, dőlésszögmérő
 
-## Antenna beállítása és műhold azonosítása:
+### Antenna beállítása és műhold azonosítása:
 
 - Műhold: 9.0°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
 - fok : 192.05° & 35.32°
@@ -22,11 +22,11 @@
 
 </details>
 
-# Mérések és dokumentációk:
+### Mérések és dokumentációk:
 
 
 
-## Set-top box beállítása és csatornakeresés
+### Set-top box beállítása és csatornakeresés
 <details>
 
 ![1741008785600](https://github.com/user-attachments/assets/c74e3335-23e7-42cc-a9a0-dbd98d428cff)
@@ -40,7 +40,7 @@
 - **Polarizáció:** Horizontális
 - **Hőmérséklet, időjárás feljegyzése:** Labor környezet
 
-# Jelszintmérés és dokumentáció
+### Jelszintmérés és dokumentáció
 
   ### Mérési eredmények rögzítése a jegyzőkönyvben:
 
