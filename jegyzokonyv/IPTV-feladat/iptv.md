@@ -4,7 +4,7 @@
 
 **A mérés tárgya:** IPTV
 
-**A mérés dátuma:**  2025.02.4 
+**A mérés dátuma:**  2025.3.10
 
 **A mérést vezette:** Sándor Péter  
 
