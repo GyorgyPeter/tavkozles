@@ -26,3 +26,12 @@ A Multicast IP tartomány megválasztása és az IPTV Set-top-box konfigurálás
 ![Névtelen](https://github.com/user-attachments/assets/d57f0409-4b8f-4c70-b878-450b099f6154)
 
 </details>
+
+Jelerősség (dBμV)
+Jel-zaj viszony (SNR - dB)
+Bit Error Rate (BER)
+Modulation Error Ratio (MER - dB)
+Csillapítás (dB)
+Lock állapot: Igen 
+
+
