@@ -1,5 +1,14 @@
 ## B tétel: Földfelszíni digitális TV vételi rendszer telepítése, konfigurálása és mérése
 
+**A mérést végző neve:** György Péter
+**A mérés tárgya:** Kültéri DVB-T
+**A mérés dátuma:**  2025.03.24 
+**A mérést vezette:** Sándor Péter  
+
+**Évfolyam:** 13. E  
+**Csoport:** GYAK 2  
+**Helyszín:**   V3 labor
+
 ---
 
 ### 1. Szükséges eszközök:
@@ -16,10 +25,7 @@
 
 <details>
 
-  
 ![1742812684618](https://github.com/user-attachments/assets/591c4304-ef40-4a67-bed4-5fd3b679d0fd)  
-
-
 
 ![1742812684603](https://github.com/user-attachments/assets/49d0011a-24d6-4854-a265-24a85986ac96)  
 
@@ -43,7 +49,6 @@
 
 - Magasabb nappali hőmérséklet: 13°C (56°F).​
 
-
 - Alacsonyabb éjszakai hőmérséklet: 6°C (42°F).​
 
 ### Figyelmeztetések:
@@ -52,25 +57,19 @@
 
 - Elsődleges veszélyforrások: villámlás, szélerősödés, jégeső.
 
-
 ---
 
 ## Mérési eredmények rögzítése a jegyzőkönyvben:
 
 <details>
 
-
 ![Táblázat](https://github.com/user-attachments/assets/887ae27e-9a02-4d76-aa6a-c44c4f3e466d)  
-
 
 ![CSillapítás](https://github.com/user-attachments/assets/ea3f0a32-1bea-41ba-85b2-f44f441610ea)  
 
-
 ![Noise MArgin](https://github.com/user-attachments/assets/70f5c5d5-97ab-4bfc-9730-a98352770a92)  
 
-
 ![MER](https://github.com/user-attachments/assets/162abaf0-b073-4aac-8839-5e96f9699305)  
-
 
 </details>
 
@@ -95,6 +94,5 @@
 
 6. **Koaxiális kábel?**
    - Minél rövidebb kábel a jobb, de ha hosszú kábelre van szükség, vastagabb vezetéket vagy jel erősítőt használok, hogy csökkentsem a jelveszteséget.
-
 
 ---
